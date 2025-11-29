@@ -1,0 +1,20 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 204,
+        "completed": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "completed": true
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "pages": 635,
+        "completed": false
+    }
+]
